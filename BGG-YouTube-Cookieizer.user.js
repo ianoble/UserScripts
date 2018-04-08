@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Enables YouTube cookies on BoardGameGeek (to get the Watch Later button)
 // @author       HolisticDeveloper
-// @match        https://www.boardgamegeek.com/*
+// @match        https://*.boardgamegeek.com/*
 // @grant        none
 // ==/UserScript==
 
